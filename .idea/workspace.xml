@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff1e0ec1-1e96-4987-976e-4aaf3c0223f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animals_test.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bitmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/bitmap.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,13 +16,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bitmap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
+            <state relative-caret-position="667">
+              <caret line="165" column="26" selection-start-line="165" selection-start-column="26" selection-end-line="165" selection-end-column="26" />
+              <folding>
+                <element signature="e#102#112#0" expanded="true" />
+                <element signature="e#4780#6321#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,12 +95,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551206157084</updated>
       <workItem from="1551206163516" duration="7787000" />
-      <workItem from="1551379052593" duration="9905000" />
+      <workItem from="1551379052593" duration="25673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17692000" />
+    <option name="totallyTimeSpent" value="33460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -126,8 +135,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bitmap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
+        <state relative-caret-position="667">
+          <caret line="165" column="26" selection-start-line="165" selection-start-column="26" selection-end-line="165" selection-end-column="26" />
+          <folding>
+            <element signature="e#102#112#0" expanded="true" />
+            <element signature="e#4780#6321#0" />
+          </folding>
         </state>
       </provider>
     </entry>
